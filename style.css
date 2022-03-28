@@ -1,0 +1,39 @@
+body {
+    background-color: black;
+}
+.contenedor {
+    height: 550px;
+    width: 450px;
+    margin: auto;
+    background-color: white;
+    margin-top: 100px;
+ }
+.header {
+    padding: 10px;
+    display: flex;
+    margin: 0;
+    justify-content: space-between;
+}
+
+.header-left {
+    padding: 0;
+    display: flex;
+    margin: 0;
+}
+i {
+    padding: 5px;
+    font-size: 25px;
+    bottom: 10px;
+}
+img {
+    width: 100%;
+}
+.icon {
+    display: flex;
+    justify-content: space-between; 
+}
+p {
+    padding: 10px;
+}
+
+
